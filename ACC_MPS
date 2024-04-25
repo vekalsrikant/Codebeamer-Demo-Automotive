@@ -1,0 +1,40 @@
+public class ACC_MPS {
+   
+    private int Speed;
+    private String Range;
+    private String Velocity;
+    private double MPS;
+
+
+    public int getSpeed() {
+        return speed;
+    }
+
+    public String getRange() {
+        return range;
+    }
+
+    public String getAddress() {
+        return address;
+    }
+
+    public int getMPS() {
+        return MPS;
+    }
+
+    public void setId() {
+        this.id = id;
+    }
+
+    public void setSpeed() {
+        this.speed = speed;
+    }
+
+    public void setAddress() {
+        this.address = address;
+    }
+
+    public void setMPS() {
+        this.MPS = MPS;
+    }
+}
